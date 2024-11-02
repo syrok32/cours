@@ -1,0 +1,244 @@
+{
+    "items": [
+        {
+            "name": "Junior Backend разработчик",
+            "link": "https://hh.ru/applicant/vacancy_response?vacancyId=109548398",
+            "salary": 0,
+            "city": "Алматы"
+        },
+        {
+            "name": "Ручной тестировщик (команда CRM)",
+            "link": "https://hh.ru/applicant/vacancy_response?vacancyId=109852664",
+            "salary": 0,
+            "city": "Москва"
+        },
+        {
+            "name": "Менеджер отдела аналитики (Контакт-центр)",
+            "link": "https://hh.ru/applicant/vacancy_response?vacancyId=108779372",
+            "salary": 0,
+            "city": "Ташкент"
+        },
+        {
+            "name": "Младший аналитик данных (г. Якутск)",
+            "link": "https://hh.ru/applicant/vacancy_response?vacancyId=109535592",
+            "salary": 0,
+            "city": "Якутск"
+        },
+        {
+            "name": "Программист (Junior - младший разработчик)",
+            "link": "https://hh.ru/applicant/vacancy_response?vacancyId=108423996",
+            "salary": 30000,
+            "city": "Санкт-Петербург"
+        },
+        {
+            "name": "Data Scientist (Junior)",
+            "link": "https://hh.ru/applicant/vacancy_response?vacancyId=108970755",
+            "salary": 600,
+            "city": "Ташкент"
+        },
+        {
+            "name": "Программист Python (Django, FastApi)",
+            "link": "https://hh.ru/applicant/vacancy_response?vacancyId=109571225",
+            "salary": 0,
+            "city": "Минск"
+        },
+        {
+            "name": "Frontend-разработчик",
+            "link": "https://hh.ru/applicant/vacancy_response?vacancyId=109661221",
+            "salary": 0,
+            "city": "Москва"
+        },
+        {
+            "name": "Python-разработчик (Junior)",
+            "link": "https://hh.ru/applicant/vacancy_response?vacancyId=109420687",
+            "salary": 75000,
+            "city": "Владивосток"
+        },
+        {
+            "name": "QA Engineer (Backend)",
+            "link": "https://hh.ru/applicant/vacancy_response?vacancyId=109663718",
+            "salary": 0,
+            "city": "Москва"
+        },
+        {
+            "name": "Junior Python developer",
+            "link": "https://hh.ru/applicant/vacancy_response?vacancyId=109307169",
+            "salary": 70000,
+            "city": "Санкт-Петербург"
+        },
+        {
+            "name": "Python-разработчик / IT-специалист",
+            "link": "https://hh.ru/applicant/vacancy_response?vacancyId=109704742",
+            "salary": 35000,
+            "city": "Тамбов"
+        },
+        {
+            "name": "Web-программист - стажер",
+            "link": "https://hh.ru/applicant/vacancy_response?vacancyId=108858682",
+            "salary": 0,
+            "city": "Алматы"
+        },
+        {
+            "name": "Системный администратор",
+            "link": "https://hh.ru/applicant/vacancy_response?vacancyId=109734746",
+            "salary": 70000,
+            "city": "Вологда"
+        },
+        {
+            "name": "Программист Python (backend)",
+            "link": "https://hh.ru/applicant/vacancy_response?vacancyId=109529994",
+            "salary": 121000,
+            "city": "Москва"
+        },
+        {
+            "name": "Стажер C++/ Python",
+            "link": "https://hh.ru/applicant/vacancy_response?vacancyId=109568130",
+            "salary": 0,
+            "city": "Москва"
+        },
+        {
+            "name": "Python-разработчик",
+            "link": "https://hh.ru/applicant/vacancy_response?vacancyId=109752796",
+            "salary": 30000,
+            "city": "Рыбинск"
+        },
+        {
+            "name": "Разработчик Python (junior)",
+            "link": "https://hh.ru/applicant/vacancy_response?vacancyId=109727746",
+            "salary": 75000,
+            "city": "Красноярск"
+        },
+        {
+            "name": "ML Engineer (Junior)",
+            "link": "https://hh.ru/applicant/vacancy_response?vacancyId=108971116",
+            "salary": 700,
+            "city": "Ташкент"
+        },
+        {
+            "name": "Junior / Junior+ Python разработчик",
+            "link": "https://hh.ru/applicant/vacancy_response?vacancyId=109544097",
+            "salary": 50000,
+            "city": "Казань"
+        },
+        {
+            "name": "Менеджер Управление тестирования и сопровождения ИС Департамент информационных технологий",
+            "link": "https://hh.ru/applicant/vacancy_response?vacancyId=109717022",
+            "salary": 491840,
+            "city": "Астана"
+        },
+        {
+            "name": "QA Engineer manual",
+            "link": "https://hh.ru/applicant/vacancy_response?vacancyId=109667718",
+            "salary": 0,
+            "city": "Москва"
+        },
+        {
+            "name": "Программист Pythorrtereren",
+            "link": "http://example.com/python",
+            "salary": 150000,
+            "city": "Разработка приложений на Python"
+        },
+        {
+            "name": "Data Scientisertretrett",
+            "link": "http://example.com/datascience",
+            "salary": 200000,
+            "city": "Анализ данных и машинное обучение"
+        },
+        {
+            "vacancy_name": "Python Developer",
+            "vacancy_link": "<https://hh.ru/vacancy/123456>",
+            "vacancy_salary": 3500000,
+            "vacancy_city": "Cheb"
+        },
+        {
+            "vacancy_name": "Python Developer",
+            "vacancy_link": "<https://hh.ru/vacancy/123456>",
+            "vacancy_salary": 3500000,
+            "vacancy_city": "Cheb"
+        },
+        {
+            "vacancy_name": "Python Developer",
+            "vacancy_link": "<https://hh.ru/vacancy/123456>",
+            "vacancy_salary": 3500000,
+            "vacancy_city": "Cheb"
+        },
+        {
+            "vacancy_name": "Python Developer",
+            "vacancy_link": "<https://hh.ru/vacancy/123456>",
+            "vacancy_salary": 3500000,
+            "vacancy_city": "Cheb"
+        },
+        {
+            "vacancy_name": "Python Developer",
+            "vacancy_link": "<https://hh.ru/vacancy/123456>",
+            "vacancy_salary": 3500000,
+            "vacancy_city": "Cheb"
+        },
+        {
+            "vacancy_name": "Python Developer",
+            "vacancy_link": "<https://hh.ru/vacancy/123456>",
+            "vacancy_salary": 3500000,
+            "vacancy_city": "Cheb"
+        },
+        {
+            "vacancy_name": "Python Developer",
+            "vacancy_link": "<https://hh.ru/vacancy/123456>",
+            "vacancy_salary": 3500000,
+            "vacancy_city": "Cheb"
+        },
+        {
+            "vacancy_name": "Python Developer",
+            "vacancy_link": "<https://hh.ru/vacancy/123456>",
+            "vacancy_salary": 3500000,
+            "vacancy_city": "Cheb"
+        },
+        {
+            "vacancy_name": "Python Developer",
+            "vacancy_link": "<https://hh.ru/vacancy/123456>",
+            "vacancy_salary": 3500000,
+            "vacancy_city": "Cheb"
+        },
+        {
+            "vacancy_name": "Python Developer",
+            "vacancy_link": "<https://hh.ru/vacancy/123456>",
+            "vacancy_salary": 3500000,
+            "vacancy_city": "Cheb"
+        },
+        {
+            "vacancy_name": "Python Developer",
+            "vacancy_link": "<https://hh.ru/vacancy/123456>",
+            "vacancy_salary": 3500000,
+            "vacancy_city": "Cheb"
+        },
+        {
+            "vacancy_name": "Python Developer",
+            "vacancy_link": "<https://hh.ru/vacancy/123456>",
+            "vacancy_salary": 3500000,
+            "vacancy_city": "Cheb"
+        },
+        {
+            "vacancy_name": "Python Developer",
+            "vacancy_link": "<https://hh.ru/vacancy/123456>",
+            "vacancy_salary": 3500000,
+            "vacancy_city": "Cheb"
+        },
+        {
+            "vacancy_name": "Python Developer",
+            "vacancy_link": "<https://hh.ru/vacancy/123456>",
+            "vacancy_salary": 3500000,
+            "vacancy_city": "Cheb"
+        },
+        {
+            "vacancy_name": "Python Developer",
+            "vacancy_link": "<https://hh.ru/vacancy/123456>",
+            "vacancy_salary": 3500000,
+            "vacancy_city": "Cheb"
+        },
+        {
+            "vacancy_name": "Python Developer",
+            "vacancy_link": "<https://hh.ru/vacancy/123456>",
+            "vacancy_salary": 3500000,
+            "vacancy_city": "Cheb"
+        }
+    ]
+}
