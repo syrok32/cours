@@ -1,0 +1,242 @@
+{
+    "items": [
+        {
+            "id": "109787570",
+            "premium": false,
+            "name": "Директор по информационным технологиям (CIO)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 1000000,
+                "to": null,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-10-31T18:53:16+0300",
+            "created_at": "2024-10-31T18:53:16+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109787570",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/109787570?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/109787570",
+            "relations": [],
+            "employer": {
+                "id": "9698985",
+                "name": "Мухаметова Наталья Анатольевна",
+                "url": "https://api.hh.ru/employers/9698985",
+                "alternate_url": "https://hh.ru/employer/9698985",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9698985",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Arch based linux - будет большим плюсом. Bash scripts (скрипты) - профи. <highlighttext>Python</highlighttext> базовые знания - будет большим плюсом. Ansible - будет большим плюсом. ",
+                "responsibility": "Руководство коллективом (в функциональном подчинении команда из 5 сисадминов из разных компаний). Разработки и реализация ИТ и ИБ стратегии предприятий. "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "36",
+                    "name": "Директор по информационным технологиям (CIO)"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "moreThan6",
+                "name": "Более 6 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "108779372",
+            "premium": false,
+            "name": "Менеджер отдела аналитики (Контакт-центр)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2759",
+                "name": "Ташкент",
+                "url": "https://api.hh.ru/areas/2759"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-10-17T10:04:10+0300",
+            "created_at": "2024-10-17T10:04:10+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=108779372",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/108779372?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/108779372",
+            "relations": [],
+            "employer": {
+                "id": "4128276",
+                "name": "АО Асакабанк",
+                "url": "https://api.hh.ru/employers/4128276",
+                "alternate_url": "https://hh.ru/employer/4128276",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original/832268.jpg",
+                    "90": "https://img.hhcdn.ru/employer-logo/3769955.jpeg",
+                    "240": "https://img.hhcdn.ru/employer-logo/3769956.jpeg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4128276",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Знание Excel, SQL, Power Query на уровне опытного пользователя и выше. Знание <highlighttext>Python</highlighttext>, систем BI будет вашим преимуществом. ",
+                "responsibility": "Анализ целевых показателей контакт центра и KPI операторов. Осуществление мониторинга фактической нагрузки и управление нагрузкой в режиме реального времени, по..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "40",
+                    "name": "Другое"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "109548398",
+            "premium": false,
+            "name": "Junior Backend разработчик",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "160",
+                "name": "Алматы",
+                "url": "https://api.hh.ru/areas/160"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-10-29T12:50:55+0300",
+            "created_at": "2024-10-29T12:50:55+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109548398",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/109548398?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/109548398",
+            "relations": [],
+            "employer": {
+                "id": "886609",
+                "name": "РАМС КАЗАХСТАН",
+                "url": "https://api.hh.ru/employers/886609",
+                "alternate_url": "https://hh.ru/employer/886609",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/3428534.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/3428533.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/746893.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=886609",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Базовые знания одного из серверных языков программирования (например, <highlighttext>Python</highlighttext>, Java, Node.js). Понимание принципов работы с базами данных, знание основ SQL...",
+                "responsibility": "Участие в разработке новых функциональных возможностей, а также в поддержке и улучшении существующего кода. Написание кода: Создание чистого, эффективного и..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        }
+    ],
+    "found": 12946,
+    "pages": 666,
+    "page": 0,
+    "per_page": 3,
+    "clusters": null,
+    "arguments": null,
+    "fixes": null,
+    "suggests": null,
+    "alternate_url": "https://hh.ru/search/vacancy?enable_snippets=true&items_on_page=3&text=Python"
+}
